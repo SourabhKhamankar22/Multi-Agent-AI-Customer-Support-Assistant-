@@ -4,8 +4,8 @@ An industry-level, production-ready capstone project demonstrating modern AI orc
 
 ## 🚀 Live Deployment Links
 
-* **Frontend Dashboard (Vercel):** [https://multi-agent-ai-customer-support-ass-iota.vercel.app](https://www.google.com/search?q=https://multi-agent-ai-customer-support-ass-iota.vercel.app)
-* **Backend API Gateway (Render):** [https://multi-agent-ai-customer-support-assistant-v0fy.onrender.com](https://multi-agent-ai-customer-support-assistant-v0fy.onrender.com)
+* **Frontend Dashboard (Vercel):** [https://multi-agent-ai-customer-support-ass-iota.vercel.app]
+* **Backend API Gateway (Render):** [https://multi-agent-ai-customer-support-assistant-v0fy.onrender.com]
 * **Database Cloud Cluster:** MongoDB Atlas Distributed Cluster
 
 ---
