@@ -30,11 +30,10 @@ app = FastAPI(
     lifespan=lifespan
 )
 
-# FIXED: You cannot use ["*"] with allow_credentials=True. 
 # We explicitly allow your Next.js frontend ports here.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000"], 
+    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000","https://multi-agent-ai-customer-support-ass-iota.vercel.app"], 
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
